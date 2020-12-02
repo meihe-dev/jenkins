@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print_hi('genkins')
     print_hi('this is a test only')
     print('just a test to integrate git and jenkins and pycharm')
+    print('error test'
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
